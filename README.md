@@ -1,6 +1,6 @@
 # pay_flow
 
-A new Flutter project.
+App created during RocketSeat course to allow user pay billet.
 
 ## Getting Started
 
